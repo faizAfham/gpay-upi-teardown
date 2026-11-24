@@ -1,5 +1,5 @@
 // Lists screenshot image URLs from Play Store + App Store listings. Prints JSON; downloads done separately.
-const { firefox } = require('/Users/msahmad/.npm/_npx/705bc6b22212b352/node_modules/playwright-core');
+const { firefox } = require('playwright-core');
 const pages = {
   gpay_play: 'https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.paisa.user&hl=en_IN&gl=IN',
   phonepe_play: 'https://play.google.com/store/apps/details?id=com.phonepe.app&hl=en_IN&gl=IN',

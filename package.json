@@ -1,0 +1,12 @@
+{
+  "name": "gpay-upi-teardown",
+  "private": true,
+  "description": "Builds the Google Pay UPI teardown deck and re-pulls the NPCI data",
+  "scripts": {
+    "build": "node deck/build.js"
+  },
+  "dependencies": {
+    "playwright-core": "^1.61.1",
+    "pptxgenjs": "^4.0.1"
+  }
+}

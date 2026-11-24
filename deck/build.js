@@ -1,4 +1,5 @@
-// Builds gpay-teardown.pptx. Run: NODE_PATH=<dir with pptxgenjs> node build.js
+// Builds gpay-teardown.pptx. Run from the repo root: npm install && npm run build
+// Slide A3 needs the store screenshots in screens/ (not in the repo); without them it is skipped.
 // Edit text/numbers here; colours live in THEME only.
 const fs = require("fs");
 const path = require("path");
@@ -52,7 +53,11 @@ const pres = new pptxgen();
 pres.layout = "LAYOUT_WIDE";
 pres.theme = { headFontFace: THEME.headFontFace, bodyFontFace: THEME.bodyFontFace };
 pres.title = "Google Pay India teardown";
-const C = pres.SchemeColor;
+pres.author = "Mohammad Faiz Ahmad";
+pres.subject = "Why Google Pay lost India's UPI lead to PhonePe, and how it wins it back";
+// Colours come straight from THEME, so the deck looks right without any post-processing step.
+const K = THEME.colors;
+const C = { text1: K.dk1, text2: K.dk2, background2: K.lt2, accent1: K.accent1, accent2: K.accent2, accent4: K.accent4 };
 
 pres.defineSlideMaster({
   title: "CONTENT",
@@ -643,10 +648,11 @@ function slideMethod() {
   pres.addSection({ title: "Backup" });
   slideReliability();
   slideCredit();
-  slideScreens();
+  if (fs.existsSync(path.join(__dirname, "..", "screens"))) slideScreens();
+  else console.log("screens/ not found: skipping slide A3 (store screenshots)");
   slideMethod();
   await pres.writeFile({ fileName: OUT });
-  const { applyTheme } = require(process.env.PPTX_SKILL + "/scripts/apply_theme.js");
-  await applyTheme(OUT, THEME);
+  // Optional: also write THEME into the file's theme part (only where the pptx skill is installed).
+  if (process.env.PPTX_SKILL) await require(process.env.PPTX_SKILL + "/scripts/apply_theme.js").applyTheme(OUT, THEME);
   console.log("wrote", OUT);
 })();

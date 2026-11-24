@@ -1,5 +1,5 @@
 // Dumps visible text of each URL to <outdir>/<n>.txt. Usage: node page_text.js <outdir> <url>...
-const { firefox } = require('/Users/msahmad/.npm/_npx/705bc6b22212b352/node_modules/playwright-core');
+const { firefox } = require('playwright-core');
 const fs = require('fs');
 const [outdir, ...urls] = process.argv.slice(2);
 fs.mkdirSync(outdir, { recursive: true });

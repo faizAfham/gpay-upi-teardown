@@ -28,7 +28,7 @@ month,psp,vol_mn,approved,bd,td
 2022-02,National Payments Corporation of India (BHIM),25.47,91.28,8.57,0.15
 2022-02,Paytm Payments Bank,634.58,98.06,1.92,0.02
 2022-02,SBI,446.83,97.74,2.24,0.02
-2022-02,Yes Bank,1792.10,97.87,2.13,0.0
+2022-02,Yes Bank,1792.1,97.87,2.13,0.0
 2022-03,Airtel Payments Bank,10.48,79.57,20.31,0.12
 2022-03,Axis Bank,865.64,98.24,1.76,0.0
 2022-03,Deutsche Bank,1.05,99.87,0.13,0.0
@@ -36,7 +36,7 @@ month,psp,vol_mn,approved,bd,td
 2022-03,HDFC Bank,499.24,98.72,1.28,0.0
 2022-03,ICICI Bank,657.73,98.37,1.62,0.01
 2022-03,IDFC FIRST Bank,3.23,95.9,4.09,0.01
-2022-03,India Post Payment Bank,3.10,95.39,4.59,0.02
+2022-03,India Post Payment Bank,3.1,95.39,4.59,0.02
 2022-03,IndusInd Bank,1.07,97.29,2.71,0.01
 2022-03,Jio Payments Bank,2.37,95.7,3.8,0.5
 2022-03,Kotak Mahindra Bank,8.31,96.51,3.49,0.0
@@ -69,7 +69,7 @@ month,psp,vol_mn,approved,bd,td
 2022-05,India Post Payment Bank,3.32,93.65,6.31,0.04
 2022-05,IndusInd Bank,1.05,98.55,1.44,0.02
 2022-05,Jio Payments Bank,2.18,95.37,4.03,0.6
-2022-05,Kotak Mahindra Bank,8.80,96.59,3.41,0.0
+2022-05,Kotak Mahindra Bank,8.8,96.59,3.41,0.0
 2022-05,National Payments Corporation of India (BHIM),29.08,91.38,8.58,0.04
 2022-05,Paytm Payments Bank,798.33,98.3,1.68,0.03
 2022-05,SBI,631.19,98.4,1.58,0.03
@@ -77,14 +77,14 @@ month,psp,vol_mn,approved,bd,td
 2022-06,Airtel Payments Bank,6.66,95.89,4.01,0.11
 2022-06,Axis Bank,989.77,98.74,1.26,0.01
 2022-06,Deutsche Bank,1.51,99.95,0.05,0.0
-2022-06,Federal Bank,3.70,97.51,2.49,0.0
+2022-06,Federal Bank,3.7,97.51,2.49,0.0
 2022-06,HDFC Bank,540.01,98.98,1.02,0.01
 2022-06,ICICI Bank,794.45,98.66,1.33,0.01
 2022-06,IDFC FIRST Bank,7.65,93.97,6.0,0.02
 2022-06,India Post Payment Bank,4.12,96.6,3.39,0.02
 2022-06,IndusInd Bank,1.04,98.47,1.51,0.02
 2022-06,Jio Payments Bank,1.96,95.65,3.84,0.5
-2022-06,Kotak Mahindra Bank,8.60,96.98,3.02,0.0
+2022-06,Kotak Mahindra Bank,8.6,96.98,3.02,0.0
 2022-06,National Payments Corporation of India (BHIM),25.04,90.24,9.72,0.03
 2022-06,Paytm Payments Bank,791.39,98.46,1.52,0.01
 2022-06,SBI,597.29,98.67,1.3,0.03
@@ -103,9 +103,9 @@ month,psp,vol_mn,approved,bd,td
 2022-07,National Payments Corporation of India (BHIM),26.21,93.4,6.54,0.07
 2022-07,Paytm Payments Bank,846.93,97.95,2.03,0.02
 2022-07,SBI,624.19,98.39,1.59,0.02
-2022-07,Yes Bank,2353.60,98.49,1.49,0.01
+2022-07,Yes Bank,2353.6,98.49,1.49,0.01
 2022-08,Airtel Payments Bank,8.28,96.15,3.76,0.09
-2022-08,Axis Bank,1046.30,98.36,1.64,0.0
+2022-08,Axis Bank,1046.3,98.36,1.64,0.0
 2022-08,Deutsche Bank,1.98,99.95,0.05,0.0
 2022-08,Federal Bank,3.99,96.79,3.19,0.01
 2022-08,HDFC Bank,616.31,98.77,1.23,0.0
@@ -129,8 +129,8 @@ month,psp,vol_mn,approved,bd,td
 2022-09,India Post Payment Bank,5.35,97.54,2.43,0.02
 2022-09,Jio Payments Bank,1.49,94.39,5.35,0.26
 2022-09,Kotak Mahindra Bank,10.84,97.12,2.88,0.0
-2022-09,National Payments Corporation of India (BHIM),27.00,93.2,6.78,0.02
-2022-09,Paytm Payments Bank,944.30,98.28,1.71,0.01
+2022-09,National Payments Corporation of India (BHIM),27.0,93.2,6.78,0.02
+2022-09,Paytm Payments Bank,944.3,98.28,1.71,0.01
 2022-09,RBL Bank,1.25,98.28,1.72,0.01
 2022-09,SBI,659.01,98.31,1.68,0.01
 2022-09,Yes Bank,2487.88,98.13,1.87,0.0
@@ -139,23 +139,23 @@ month,psp,vol_mn,approved,bd,td
 2022-10,Bank of Baroda,1.34,92.14,7.85,0.01
 2022-10,Federal Bank,4.34,97.14,2.85,0.01
 2022-10,HDFC Bank,669.66,98.82,1.18,0.0
-2022-10,ICICI Bank,1075.20,98.33,1.66,0.0
+2022-10,ICICI Bank,1075.2,98.33,1.66,0.0
 2022-10,IDFC FIRST Bank,14.61,96.53,3.44,0.03
 2022-10,India Post Payment Bank,4.83,97.37,2.61,0.02
 2022-10,Jio Payments Bank,1.47,94.35,5.45,0.2
-2022-10,Kotak Mahindra Bank,11.80,97.12,2.88,0.0
-2022-10,National Payments Corporation of India (BHIM),27.30,93.36,6.62,0.02
+2022-10,Kotak Mahindra Bank,11.8,97.12,2.88,0.0
+2022-10,National Payments Corporation of India (BHIM),27.3,93.36,6.62,0.02
 2022-10,Paytm Payments Bank,1019.37,98.17,1.83,0.01
 2022-10,RBL Bank,1.42,97.93,2.07,0.0
 2022-10,SBI,735.35,98.14,1.86,0.0
 2022-10,Yes Bank,2655.79,98.2,1.8,0.0
-2022-11,Airtel Payments Bank,9.10,95.92,4.04,0.05
+2022-11,Airtel Payments Bank,9.1,95.92,4.04,0.05
 2022-11,Axis Bank,1289.43,98.36,1.64,0.0
 2022-11,Bank of Baroda,1.35,92.72,7.27,0.01
-2022-11,Deutsche Bank,1.30,99.93,0.07,0.0
+2022-11,Deutsche Bank,1.3,99.93,0.07,0.0
 2022-11,Federal Bank,4.26,97.23,2.74,0.03
-2022-11,HDFC Bank,690.60,98.88,1.11,0.01
-2022-11,ICICI Bank,1102.30,98.46,1.53,0.0
+2022-11,HDFC Bank,690.6,98.88,1.11,0.01
+2022-11,ICICI Bank,1102.3,98.46,1.53,0.0
 2022-11,IDFC FIRST Bank,15.81,97.48,2.5,0.02
 2022-11,India Post Payment Bank,4.77,97.62,2.37,0.01
 2022-11,Jio Payments Bank,1.39,94.63,5.17,0.2
@@ -170,15 +170,15 @@ month,psp,vol_mn,approved,bd,td
 2022-12,Federal Bank,4.73,97.7,2.29,0.01
 2022-12,HDFC Bank,693.09,98.69,1.3,0.01
 2022-12,ICICI Bank,1252.92,98.51,1.48,0.01
-2022-12,IDFC FIRST Bank,20.00,97.57,2.42,0.01
+2022-12,IDFC FIRST Bank,20.0,97.57,2.42,0.01
 2022-12,India Post Payment Bank,5.67,97.99,1.99,0.02
-2022-12,IndusInd Bank,1.30,97.25,1.44,1.3
+2022-12,IndusInd Bank,1.3,97.25,1.44,1.3
 2022-12,Jio Payments Bank,1.56,94.97,4.74,0.29
 2022-12,Kotak Mahindra Bank,11.83,97.45,2.55,0.01
 2022-12,Paytm Payments Bank,1078.75,98.31,1.68,0.01
-2022-12,RBL Bank,1.70,98.09,1.9,0.01
+2022-12,RBL Bank,1.7,98.09,1.9,0.01
 2022-12,SBI,613.07,98.22,1.76,0.01
-2022-12,Yes Bank,2760.70,98.38,1.61,0.01
+2022-12,Yes Bank,2760.7,98.38,1.61,0.01
 2023-01,Airtel Payments Bank,10.12,96.48,3.48,0.05
 2023-01,Axis Bank,1479.23,98.59,1.4,0.01
 2023-01,Bank of Baroda,1.22,90.02,9.97,0.01
@@ -201,7 +201,7 @@ month,psp,vol_mn,approved,bd,td
 2023-02,Federal Bank,4.92,97.44,2.4,0.16
 2023-02,HDFC Bank,596.39,98.47,1.33,0.2
 2023-02,ICICI Bank,1195.11,98.31,1.46,0.23
-2023-02,IDFC FIRST Bank,23.00,97.51,2.47,0.02
+2023-02,IDFC FIRST Bank,23.0,97.51,2.47,0.02
 2023-02,India Post Payment Bank,4.14,97.76,2.22,0.01
 2023-02,Jio Payments Bank,1.58,94.85,4.5,0.64
 2023-02,Kotak Mahindra Bank,12.37,97.76,2.24,0.0
@@ -213,10 +213,10 @@ month,psp,vol_mn,approved,bd,td
 2023-03,Axis Bank,1563.99,98.72,1.28,0.0
 2023-03,Canara Bank,1.45,95.54,4.45,0.01
 2023-03,Deutsche Bank,1.73,99.94,0.06,0.0
-2023-03,Federal Bank,5.40,98.09,1.89,0.01
+2023-03,Federal Bank,5.4,98.09,1.89,0.01
 2023-03,HDFC Bank,635.41,98.8,1.2,0.0
 2023-03,ICICI Bank,1331.47,98.77,1.23,0.0
-2023-03,IDFC FIRST Bank,14.40,98.21,1.78,0.01
+2023-03,IDFC FIRST Bank,14.4,98.21,1.78,0.01
 2023-03,India Post Payment Bank,4.52,98.28,1.72,0.0
 2023-03,Jio Payments Bank,1.76,95.74,3.71,0.56
 2023-03,Kotak Mahindra Bank,14.04,98.09,1.9,0.02
@@ -228,8 +228,8 @@ month,psp,vol_mn,approved,bd,td
 2023-04,Axis Bank,1443.01,98.63,1.37,0.0
 2023-04,Deutsche Bank,1.65,99.95,0.05,0.0
 2023-04,FamPay PPI,11.99,98.21,1.79,0.0
-2023-04,Federal Bank,5.30,98.08,1.92,0.0
-2023-04,HDFC Bank,715.30,98.84,1.16,0.0
+2023-04,Federal Bank,5.3,98.08,1.92,0.0
+2023-04,HDFC Bank,715.3,98.84,1.16,0.0
 2023-04,ICICI Bank,1460.93,98.8,1.2,0.0
 2023-04,IDFC FIRST Bank,12.84,99.06,0.94,0.0
 2023-04,India Post Payment Bank,5.32,98.47,1.53,0.0
@@ -239,7 +239,7 @@ month,psp,vol_mn,approved,bd,td
 2023-04,RBL Bank,2.42,98.79,1.21,0.0
 2023-04,SBI,939.75,98.8,1.19,0.01
 2023-04,Yes Bank,3144.79,98.73,1.27,0.0
-2023-05,Airtel Payments Bank,9.40,97.47,2.51,0.02
+2023-05,Airtel Payments Bank,9.4,97.47,2.51,0.02
 2023-05,Axis Bank,1340.63,98.51,1.48,0.0
 2023-05,Deutsche Bank,1.89,99.94,0.06,0.0
 2023-05,Fampay (PPI),13.98,98.55,1.45,0.0
@@ -252,7 +252,7 @@ month,psp,vol_mn,approved,bd,td
 2023-05,Kotak Mahindra Bank,16.61,98.15,1.85,0.0
 2023-05,Paytm Payments Bank,1257.01,98.16,1.83,0.01
 2023-05,RBL Bank,2.12,98.56,1.44,0.0
-2023-05,SBI,1019.30,98.72,1.27,0.0
+2023-05,SBI,1019.3,98.72,1.27,0.0
 2023-05,Yes Bank,3322.19,98.77,1.22,0.0
 2023-06,Airtel Payments Bank,9.08,97.36,0.04,2.6
 2023-06,Axis Bank,1657.48,98.48,0.01,1.51
@@ -268,7 +268,7 @@ month,psp,vol_mn,approved,bd,td
 2023-06,Paytm Payments Bank,1219.59,98.34,0.0,1.66
 2023-06,RBL Bank,2.17,98.35,0.01,1.65
 2023-06,SBI,1013.07,98.56,0.0,1.44
-2023-06,Yes Bank,3318.70,98.64,0.04,1.32
+2023-06,Yes Bank,3318.7,98.64,0.04,1.32
 2023-07,Airtel Payments Bank,9.93,97.2,2.74,0.06
 2023-07,Axis Bank,1814.41,98.32,1.67,0.0
 2023-07,Fampay (PPI),17.07,98.34,1.66,0.0
@@ -280,7 +280,7 @@ month,psp,vol_mn,approved,bd,td
 2023-07,Kotak Mahindra Bank,19.02,97.58,2.4,0.01
 2023-07,National Payments Corporation of India (BHIM),26.31,94.78,5.2,0.02
 2023-07,Paytm Payments Bank,1302.04,98.38,1.62,0.0
-2023-07,RBL Bank,2.40,97.99,2.0,0.0
+2023-07,RBL Bank,2.4,97.99,2.0,0.0
 2023-07,SBI,967.58,98.13,1.87,0.0
 2023-07,Standard Chartered,4.15,99.79,0.21,0.0
 2023-07,Yes Bank,3475.05,98.47,1.53,0.0
@@ -297,11 +297,11 @@ month,psp,vol_mn,approved,bd,td
 2023-08,Paytm Payments Bank,1386.27,98.5,1.49,0.0
 2023-08,RBL Bank,2.45,98.32,1.67,0.01
 2023-08,SBI,985.73,98.4,1.6,0.0
-2023-08,Standard Chartered,3.60,99.78,0.22,0.0
+2023-08,Standard Chartered,3.6,99.78,0.22,0.0
 2023-08,Yes Bank,3548.89,98.62,1.38,0.0
 2023-09,Airtel Payments Bank,10.66,94.93,5.06,0.01
 2023-09,Axis Bank,2052.67,98.49,1.49,0.02
-2023-09,Fampay (PPI),23.20,96.59,3.41,0.0
+2023-09,Fampay (PPI),23.2,96.59,3.41,0.0
 2023-09,Federal Bank,5.63,97.16,2.82,0.02
 2023-09,HDFC Bank,901.08,98.4,1.57,0.03
 2023-09,ICICI Bank,1889.52,98.3,1.68,0.02
@@ -317,16 +317,16 @@ month,psp,vol_mn,approved,bd,td
 2023-10,Airtel Payments Bank,11.53,98.13,1.81,0.05
 2023-10,Axis Bank,2269.64,98.96,1.03,0.0
 2023-10,Fampay (PPI),27.98,98.46,1.54,0.0
-2023-10,Federal Bank,6.00,98.13,1.87,0.0
+2023-10,Federal Bank,6.0,98.13,1.87,0.0
 2023-10,HDFC Bank,1029.19,99.05,0.95,0.0
 2023-10,ICICI Bank,2151.88,99.02,0.98,0.0
 2023-10,IDFC FIRST Bank,5.55,98.14,1.86,0.01
 2023-10,India Post Payment Bank,5.62,98.67,1.31,0.02
 2023-10,Kotak Mahindra Bank,24.19,98.52,1.47,0.0
-2023-10,National Payments Corporation of India (BHIM),27.00,95.32,4.67,0.01
+2023-10,National Payments Corporation of India (BHIM),27.0,95.32,4.67,0.01
 2023-10,Paytm Payments Bank,1439.34,98.79,1.21,0.0
-2023-10,RBL Bank,3.70,98.53,1.46,0.01
-2023-10,SBI,815.90,98.45,1.55,0.0
+2023-10,RBL Bank,3.7,98.53,1.46,0.01
+2023-10,SBI,815.9,98.45,1.55,0.0
 2023-10,Standard Chartered,7.03,99.87,0.13,0.0
 2023-10,Yes Bank,3691.75,98.95,1.04,0.0
 2023-11,AIRTEL PAYMENTS BANK,11.95,92.59,7.35,0.06
@@ -336,9 +336,9 @@ month,psp,vol_mn,approved,bd,td
 2023-11,ICICI Bank,2077.75,95.12,4.79,0.09
 2023-11,IDFC FIRST Bank,5.21,98.99,1.0,0.01
 2023-11,INDIA POST PAYMENT BANK,5.27,99.98,0.02,0.0
-2023-11,KOTAK MAHINDRA BANK,23.97,100.0,0.0,0.0
+2023-11,Kotak Mahindra Bank,23.97,100.0,0.0,0.0
 2023-11,National Payments Corporation of India (BHIM),24.75,94.88,5.02,0.1
-2023-11,Paytm Payments Bank,1451.32,94.11,5.8,0.09
+2023-11,PAYTM PAYMENTS BANK,1451.32,94.11,5.8,0.09
 2023-11,RBL Bank Ltd,4.07,95.85,4.09,0.06
 2023-11,SBI,983.74,95.7,4.26,0.04
 2023-11,STANDARD CHARTERED,4.39,100.0,0.0,0.0
@@ -352,9 +352,9 @@ month,psp,vol_mn,approved,bd,td
 2023-12,ICICI Bank,2325.23,94.83,5.04,0.13
 2023-12,IDFC First Bank,5.61,99.21,0.78,0.01
 2023-12,INDIA POST PAYMENT BANK,4.88,99.96,0.04,0.0
-2023-12,KOTAK MAHINDRA BANK,26.48,100.0,0.0,0.0
+2023-12,Kotak Mahindra Bank,26.48,100.0,0.0,0.0
 2023-12,National Payments Corporation of India (BHIM),25.74,94.4,5.47,0.13
-2023-12,Paytm Payments Bank,1542.33,93.87,6.0,0.13
+2023-12,PAYTM PAYMENTS BANK,1542.33,93.87,6.0,0.13
 2023-12,RBL Bank,4.52,95.38,4.5,0.12
 2023-12,SBI,990.39,95.58,4.36,0.06
 2023-12,TRI O TECH SOLUTIONS PRIVATE LIMITED,34.24,100.0,0.0,0.0
@@ -367,9 +367,9 @@ month,psp,vol_mn,approved,bd,td
 2024-01,ICICI Bank,2320.91,94.82,4.99,0.19
 2024-01,IDFC First Bank,5.77,99.21,0.78,0.01
 2024-01,INDIA POST PAYMENT BANK,4.69,99.98,0.02,0.0
-2024-01,KOTAK MAHINDRA BANK,28.42,100.0,0.0,0.0
+2024-01,Kotak Mahindra Bank,28.42,100.0,0.0,0.0
 2024-01,National Payments Corporation of India (BHIM),31.82,94.2,5.67,0.14
-2024-01,Paytm Payments Bank,1543.98,93.73,6.12,0.16
+2024-01,PAYTM PAYMENTS BANK,1543.98,93.73,6.12,0.16
 2024-01,RBL Bank,6.46,96.06,3.81,0.13
 2024-01,SBI,1088.91,95.73,4.18,0.09
 2024-01,TRI O TECH SOLUTIONS PRIVATE LIMITED,36.62,100.0,0.0,0.0
@@ -381,9 +381,9 @@ month,psp,vol_mn,approved,bd,td
 2024-02,ICICI Bank,2400.25,94.67,5.11,0.21
 2024-02,IDFC First Bank,6.02,99.12,0.87,0.01
 2024-02,INDIA POST PAYMENT BANK,5.38,99.97,0.03,0.0
-2024-02,KOTAK MAHINDRA BANK,31.70,100.0,0.0,0.0
+2024-02,Kotak Mahindra Bank,31.7,100.0,0.0,0.0
 2024-02,National Payments Corporation of India (BHIM),60.32,93.11,6.69,0.21
-2024-02,Paytm Payments Bank,1346.19,93.2,6.64,0.17
+2024-02,PAYTM PAYMENTS BANK,1346.19,93.2,6.64,0.17
 2024-02,RBL Bank,6.26,95.82,4.04,0.15
 2024-02,SBI,1082.21,95.73,4.17,0.1
 2024-02,STANDARD CHARTERED,4.02,100.0,0.0,0.0
@@ -395,12 +395,12 @@ month,psp,vol_mn,approved,bd,td
 2024-03,DEUTSCHE BANK CORP,3.28,100.0,0.0,0.0
 2024-03,HDFC Bank,1196.05,95.43,4.45,0.12
 2024-03,ICICI Bank,2690.47,94.21,5.65,0.14
-2024-03,IDFC First Bank,6.80,99.19,0.81,0.01
+2024-03,IDFC First Bank,6.8,99.19,0.81,0.01
 2024-03,INDIA POST PAYMENT BANK,6.82,99.97,0.03,0.0
-2024-03,KOTAK MAHINDRA BANK,39.38,100.0,0.0,0.0
+2024-03,Kotak Mahindra Bank,39.38,100.0,0.0,0.0
 2024-03,National Payments Corporation of India (BHIM),32.08,93.66,6.17,0.17
-2024-03,Paytm Payments Bank,1321.44,91.61,8.26,0.13
-2024-03,RBL Bank,5.70,95.02,4.84,0.14
+2024-03,PAYTM PAYMENTS BANK,1321.44,91.61,8.26,0.13
+2024-03,RBL Bank,5.7,95.02,4.84,0.14
 2024-03,SBI,1255.46,95.77,4.15,0.08
 2024-03,TRI O TECH SOLUTIONS PRIVATE LIMITED,43.69,100.0,0.0,0.0
 2024-03,Yes Bank,3895.71,93.7,6.18,0.13
@@ -413,14 +413,14 @@ month,psp,vol_mn,approved,bd,td
 2024-04,ICICI Bank,2627.42,93.8,6.01,0.19
 2024-04,IDBI BANK LIMITED,6.85,99.12,0.87,0.01
 2024-04,INDIA POST PAYMENT BANK,5.09,99.98,0.02,0.0
-2024-04,KOTAK MAHINDRA BANK,41.81,100.0,0.0,0.0
+2024-04,Kotak Mahindra Bank,41.81,100.0,0.0,0.0
 2024-04,National Payments Corporation of India (BHIM),27.42,92.9,6.85,0.26
 2024-04,RBL Bank,6.28,95.22,4.61,0.17
 2024-04,SBI,1231.71,95.71,4.18,0.11
 2024-04,TRI O TECH SOLUTIONS PRIVATE LIMITED,46.64,100.0,0.0,0.0
-2024-04,Yes Bank,5118.50,92.73,7.1,0.17
+2024-04,Yes Bank,5118.5,92.73,7.1,0.17
 2024-05,AIRTEL PAYMENTS BANK,17.95,96.34,3.62,0.04
-2024-05,Axis Bank,4029.90,94.3,5.6,0.1
+2024-05,Axis Bank,4029.9,94.3,5.6,0.1
 2024-05,CANARA BANK,3.49,95.5,4.13,0.37
 2024-05,FEDERAL BANK,6.09,97.89,2.09,0.02
 2024-05,GARAGEPRENEURS INTERNET PRIVATE LIMITED,4.86,100.0,0.0,0.0
@@ -428,82 +428,82 @@ month,psp,vol_mn,approved,bd,td
 2024-05,ICICI Bank,2756.94,93.97,5.93,0.1
 2024-05,IDBI BANK LTD,7.49,99.21,0.78,0.01
 2024-05,INDIA POST PAYMENT BANK,5.68,99.97,0.03,0.0
-2024-05,KOTAK MAHINDRA BANK,43.65,100.0,0.0,0.0
+2024-05,Kotak Mahindra Bank,43.65,100.0,0.0,0.0
 2024-05,National Payments Corporation of India (BHIM),27.76,93.44,6.42,0.14
 2024-05,RBL BANK,7.99,95.79,4.13,0.08
 2024-05,SBI,1360.48,95.85,4.09,0.06
-2024-05,TRI O TECH SOLUTIONS PRIVATE LIMITED,50.10,100.0,0.0,0.0
+2024-05,TRI O TECH SOLUTIONS PRIVATE LIMITED,50.1,100.0,0.0,0.0
 2024-05,Yes Bank,5297.04,92.93,6.98,0.09
 2024-06,Airtel Payments Bank Ltd,16.38,96.18,3.74,0.08
-2024-06,Axis Bank,"4,019.53",94.17,5.67,0.16
+2024-06,Axis Bank,4019.53,94.17,5.67,0.16
 2024-06,Federal Bank Ltd.,5.8,97.94,2.04,0.02
 2024-06,Garagepreneurs Internet Private Limited,3.64,100.0,0.0,0.0
-2024-06,HDFC Bank,"1,303.26",95.19,4.69,0.12
-2024-06,ICICI Bank,"2,681.98",93.75,6.09,0.16
+2024-06,HDFC Bank,1303.26,95.19,4.69,0.12
+2024-06,ICICI Bank,2681.98,93.75,6.09,0.16
 2024-06,IDFC First Bank,7.78,99.41,0.59,0.01
 2024-06,India Post Payments Bank Ltd,6.01,99.98,0.02,0.0
-2024-06,Kotak Mahindra Bank Ltd,42.91,100.0,0.0,0.0
+2024-06,Kotak Mahindra Bank,42.91,100.0,0.0,0.0
 2024-06,National Payments Corporation of India (BHIM),27.47,93.42,6.37,0.21
 2024-06,One Mobikwik Systems Pvt - Ltd,3.62,100.0,0.0,0.0
 2024-06,RBL Bank Ltd.,8.11,95.44,4.4,0.16
-2024-06,SBI,"1,473.39",95.76,4.09,0.16
+2024-06,SBI,1473.39,95.76,4.09,0.16
 2024-06,Tri O Tech Solutions Private Limited,50.77,100.0,0.0,0.0
-2024-06,Yes Bank,"5,109.48",92.73,7.12,0.15
+2024-06,Yes Bank,5109.48,92.73,7.12,0.15
 2024-07,Airtel Payments Bank Ltd,17.37,95.73,4.2,0.07
 2024-07,Axis Bank,4393.74,93.86,6.01,0.13
-2024-07,Federal Bank Ltd.,6.10,98.0,1.98,0.02
+2024-07,Federal Bank Ltd.,6.1,98.0,1.98,0.02
 2024-07,Garagepreneurs Internet Private Limited,4.37,100.0,0.0,0.0
 2024-07,HDFC Bank,1394.09,94.81,5.08,0.11
 2024-07,ICICI Bank,2762.62,93.29,6.58,0.13
 2024-07,IDFC First Bank,8.16,99.41,0.59,0.0
 2024-07,India Post Payments Bank Ltd,6.43,99.98,0.02,0.0
-2024-07,Kotak Mahindra Bank Ltd,45.05,100.0,0.0,0.0
+2024-07,Kotak Mahindra Bank,45.05,100.0,0.0,0.0
 2024-07,National Payments Corporation of India (BHIM),29.02,93.13,6.72,0.16
-2024-07,One Mobikwik Systems Pvt - Ltd,4.40,100.0,0.0,0.0
+2024-07,One Mobikwik Systems Pvt - Ltd,4.4,100.0,0.0,0.0
 2024-07,RBL Bank Ltd.,8.95,94.86,5.0,0.14
 2024-07,SBI,1521.58,95.47,4.4,0.13
-2024-07,Tri O Tech Solutions Private Limited,52.00,100.0,0.0,0.0
+2024-07,Tri O Tech Solutions Private Limited,52.0,100.0,0.0,0.0
 2024-07,Yes Bank,5164.19,92.02,7.86,0.12
 2024-08,Airtel Payments Bank Ltd,18.37,95.59,4.36,0.05
 2024-08,Axis Bank,4967.63,94.27,5.64,0.09
 2024-08,Federal Bank Ltd.,6.39,98.1,1.89,0.01
 2024-08,Garagepreneurs Internet Private Limited,4.73,100.0,0.0,0.0
 2024-08,HDFC Bank,1538.03,95.1,4.83,0.07
-2024-08,ICICI Bank,2879.50,93.59,6.32,0.09
+2024-08,ICICI Bank,2879.5,93.59,6.32,0.09
 2024-08,IDFC First Bank,8.62,99.41,0.58,0.0
 2024-08,India Post Payments Bank Ltd,7.05,99.96,0.04,0.0
-2024-08,Kotak Mahindra Bank Ltd,47.21,100.0,0.0,0.0
+2024-08,Kotak Mahindra Bank,47.21,100.0,0.0,0.0
 2024-08,National Payments Corporation of India (BHIM),30.42,93.34,6.54,0.12
 2024-08,One Mobikwik Systems Pvt - Ltd,5.32,100.0,0.0,0.0
 2024-08,RBL Bank Ltd.,9.51,95.19,4.72,0.09
-2024-08,SBI,1371.70,95.65,4.25,0.11
+2024-08,SBI,1371.7,95.65,4.25,0.11
 2024-08,Tri O Tech Solutions Private Limited,57.12,100.0,0.0,0.0
-2024-08,Yes Bank,4993.30,91.88,8.03,0.09
+2024-08,Yes Bank,4993.3,91.88,8.03,0.09
 2024-09,Airtel Payments Bank Ltd,18.16,95.91,4.01,0.08
 2024-09,Axis Bank,4933.71,94.09,5.75,0.16
 2024-09,Federal Bank Ltd.,6.48,98.24,1.73,0.03
 2024-09,Garagepreneurs Internet Private Limited,4.83,100.0,0.0,0.0
 2024-09,HDFC Bank,1568.06,95.01,4.88,0.11
-2024-09,ICICI Bank,2819.10,93.52,6.35,0.13
+2024-09,ICICI Bank,2819.1,93.52,6.35,0.13
 2024-09,IDFC First Bank,8.95,99.42,0.57,0.01
 2024-09,India Post Payments Bank Ltd,6.96,99.99,0.01,0.0
-2024-09,Kotak Mahindra Bank Ltd,47.42,100.0,0.0,0.0
+2024-09,Kotak Mahindra Bank,47.42,100.0,0.0,0.0
 2024-09,National Payments Corporation of India (BHIM),31.28,93.32,6.46,0.22
 2024-09,One Mobikwik Systems Pvt - Ltd,6.18,100.0,0.0,0.0
 2024-09,RBL Bank Ltd.,9.13,95.71,4.16,0.14
-2024-09,SBI,1634.70,95.72,4.11,0.16
+2024-09,SBI,1634.7,95.72,4.11,0.16
 2024-09,Tri O Tech Solutions Private Limited,61.01,100.0,0.0,0.0
 2024-09,Yes Bank,4885.12,91.71,8.15,0.14
 2024-10,Airtel Payments Bank Limited,20.89,95.87,3.91,0.22
 2024-10,Axis Bank,5662.22,93.4,6.11,0.49
-2024-10,Federal Bank Ltd.,6.60,98.23,1.66,0.11
+2024-10,Federal Bank Ltd.,6.6,98.23,1.66,0.11
 2024-10,Garagepreneurs Internet Private Limited,5.44,100.0,0.0,0.0
 2024-10,HDFC Bank,1746.61,94.68,5.16,0.16
 2024-10,ICICI Bank,3063.68,92.73,6.96,0.31
 2024-10,IDFC Bank Ltd.,9.99,99.54,0.44,0.01
 2024-10,INDIA POST PAYMENTS BANK LIMITED,10.11,100.0,0.0,0.0
 2024-10,Kotak Mahindra Bank,52.23,100.0,0.0,0.0
-2024-10,NPCI BHIM Services Ltd (NBSL),35.84,92.86,6.49,0.64
+2024-10,NPCI BHIM Services Ltd (NBSL),35.84,92.86,6.49,0.64
 2024-10,ONE MOBIKWIK SYSTEMS LIMITED,7.19,100.0,0.0,0.0
 2024-10,RBL Bank Ltd.,11.15,96.09,3.6,0.31
 2024-10,SBI,1831.81,95.11,4.37,0.52
@@ -513,12 +513,12 @@ month,psp,vol_mn,approved,bd,td
 2024-11,Axis Bank,5366.04,93.5,6.33,0.17
 2024-11,Citibank Corporate,6.19,100.0,0.0,0.0
 2024-11,Federal Bank Ltd.,6.64,98.46,1.5,0.04
-2024-11,HDFC Bank,1699.60,94.5,5.4,0.1
+2024-11,HDFC Bank,1699.6,94.5,5.4,0.1
 2024-11,ICICI Bank,2839.45,92.32,7.54,0.14
 2024-11,IDFC Bank Ltd.,9.25,99.6,0.39,0.0
 2024-11,India Post Payments Bank Limited,8.91,100.0,0.0,0.0
 2024-11,Kotak Mahindra Bank,47.66,100.0,0.0,0.0
-2024-11,NPCI BHIM Services Ltd (NBSL),32.01,93.36,6.4,0.23
+2024-11,NPCI BHIM Services Ltd (NBSL),32.01,93.36,6.4,0.23
 2024-11,One Mobikwik Systems Limited,7.23,100.0,0.0,0.0
 2024-11,RBL Bank Ltd.,11.84,97.09,2.81,0.1
 2024-11,SBI,1738.04,95.72,4.12,0.16
@@ -533,7 +533,7 @@ month,psp,vol_mn,approved,bd,td
 2024-12,IDFC Bank Ltd.,10.09,99.61,0.38,0.0
 2024-12,India Post Payments Bank Limited,10.76,100.0,0.0,0.0
 2024-12,Kotak Mahindra Bank,52.43,100.0,0.0,0.0
-2024-12,NPCI BHIM Services Ltd (NBSL),36.21,93.34,6.42,0.24
+2024-12,NPCI BHIM Services Ltd (NBSL),36.21,93.34,6.42,0.24
 2024-12,One Mobikwik Systems Limited,8.59,100.0,0.0,0.0
 2024-12,RBL Bank Ltd.,16.71,97.5,2.41,0.09
 2024-12,SBI,1939.67,95.46,4.38,0.16
@@ -592,7 +592,7 @@ month,psp,vol_mn,approved,bd,td
 2025-04,IDFC Bank Ltd.,17.05,99.8,0.2,0.01
 2025-04,India Post Payments Bank Limited,14.76,100.0,0.0,0.0
 2025-04,Kotak Mahindra Bank,58.08,100.0,0.0,0.0
-2025-04,NPCI BHIM Services Ltd (NBSL),63.18,94.12,5.46,0.42
+2025-04,NPCI BHIM Services Ltd (NBSL),63.18,94.12,5.46,0.42
 2025-04,One Mobikwik Systems Limited,12.7,100.0,0.0,0.0
 2025-04,RBL Bank Ltd.,22.69,97.91,1.97,0.12
 2025-04,SBI,1570.86,94.5,5.21,0.29
@@ -622,7 +622,7 @@ month,psp,vol_mn,approved,bd,td
 2025-06,IDFC Bank Ltd.,18.49,99.8,0.2,0.0
 2025-06,India Post Payments Bank Limited,16.65,100.0,0.0,0.0
 2025-06,Kotak Mahindra Bank,60.77,100.0,0.0,0.0
-2025-06,NPCI BHIM Services Ltd (NBSL),83.63,95.3,4.48,0.23
+2025-06,NPCI BHIM Services Ltd (NBSL),83.63,95.3,4.48,0.23
 2025-06,One Mobikwik Systems Limited,13.74,100.0,0.0,0.0
 2025-06,RBL Bank Ltd.,18.81,98.08,1.84,0.07
 2025-06,SBI,1786.32,95.31,4.48,0.21
@@ -637,7 +637,7 @@ month,psp,vol_mn,approved,bd,td
 2025-07,IDFC Bank Ltd.,19.28,99.79,0.21,0.0
 2025-07,India Post Payments Bank Limited,18.16,100.0,0.0,0.0
 2025-07,Kotak Mahindra Bank,67.13,100.0,0.0,0.0
-2025-07,NPCI BHIM Services Ltd (NBSL),99.55,95.1,4.64,0.26
+2025-07,NPCI BHIM Services Ltd (NBSL),99.55,95.1,4.64,0.26
 2025-07,One Mobikwik Systems Limited,16.68,100.0,0.0,0.0
 2025-07,RBL Bank Ltd.,17.25,97.83,2.09,0.08
 2025-07,SBI,1652.32,94.75,5.05,0.2
@@ -645,125 +645,125 @@ month,psp,vol_mn,approved,bd,td
 2025-07,Tri O Tech Solutions Private Limited,124.54,100.0,0.0,0.0
 2025-07,Yes Bank,5894.24,90.91,8.98,0.11
 2025-08,Airtel Payments Bank Limited,22.27,96.3,3.62,0.07
-2025-08,Axis Bank,"7,903.10",93.6,6.27,0.13
+2025-08,Axis Bank,7903.1,93.6,6.27,0.13
 2025-08,Federal Bank Ltd.,9.54,99.02,0.96,0.02
-2025-08,HDFC Bank,"1,957.30",94.28,5.64,0.08
-2025-08,ICICI Bank,"3,880.13",92.61,7.27,0.12
+2025-08,HDFC Bank,1957.3,94.28,5.64,0.08
+2025-08,ICICI Bank,3880.13,92.61,7.27,0.12
 2025-08,IDFC Bank Ltd.,18.71,99.81,0.19,0.0
 2025-08,India Post Payments Bank Limited,19.58,100.0,0.0,0.0
 2025-08,Kotak Mahindra Bank,72.36,100.0,0.0,0.0
-2025-08,NPCI BHIM Services Ltd (NBSL),113.93,95.28,4.54,0.18
+2025-08,NPCI BHIM Services Ltd (NBSL),113.93,95.28,4.54,0.18
 2025-08,One Mobikwik Systems Limited,18.65,100.0,0.0,0.0
 2025-08,RBL Bank Ltd.,17.71,98.02,1.91,0.07
-2025-08,SBI,"1,433.43",94.47,5.36,0.16
+2025-08,SBI,1433.43,94.47,5.36,0.16
 2025-08,Slice Small Finance Bank,21.53,96.8,3.14,0.06
 2025-08,Tri O Tech Solutions Private Limited,134.92,100.0,0.0,0.0
-2025-08,Yes Bank,"5,841.35",90.97,8.94,0.1
+2025-08,Yes Bank,5841.35,90.97,8.94,0.1
 2025-09,Airtel Payments Bank Limited,18.06,96.15,3.76,0.09
-2025-09,Axis Bank,"8,358.06",93.46,6.43,0.1
-2025-09,HDFC Bank,"1,803.82",93.97,5.97,0.07
-2025-09,ICICI Bank,"3,047.76",91.43,8.46,0.11
+2025-09,Axis Bank,8358.06,93.46,6.43,0.1
+2025-09,HDFC Bank,1803.82,93.97,5.97,0.07
+2025-09,ICICI Bank,3047.76,91.43,8.46,0.11
 2025-09,IDFC Bank Ltd.,14.36,99.76,0.24,0.0
 2025-09,India Post Payments Bank Limited,16.81,100.0,0.0,0.0
 2025-09,Kotak Mahindra Bank,75.98,100.0,0.0,0.0
-2025-09,NPCI BHIM Services Ltd (NBSL),125.93,95.22,4.59,0.19
+2025-09,NPCI BHIM Services Ltd (NBSL),125.93,95.22,4.59,0.19
 2025-09,One Mobikwik Systems Limited,18.84,100.0,0.0,0.0
 2025-09,RBL Bank Ltd.,15.39,97.86,2.08,0.06
-2025-09,SBI,"1,641.55",94.44,5.36,0.2
+2025-09,SBI,1641.55,94.44,5.36,0.2
 2025-09,Slice Small Finance Bank,23.55,96.86,3.1,0.04
 2025-09,Tri O Tech Solutions Private Limited,139.13,100.0,0.0,0.0
 2025-09,Unity Small Finance Bank Limited,16.68,98.13,1.85,0.02
-2025-09,Yes Bank,"5,823.40",90.44,9.47,0.1
+2025-09,Yes Bank,5823.4,90.44,9.47,0.1
 2025-10,Airtel Payments Bank Limited,18.17,96.13,3.82,0.05
-2025-10,Axis Bank,"9,384.28",93.59,6.34,0.08
-2025-10,HDFC Bank,"1,926.84",93.86,6.1,0.04
-2025-10,ICICI Bank,"3,017.17",90.8,9.13,0.07
+2025-10,Axis Bank,9384.28,93.59,6.34,0.08
+2025-10,HDFC Bank,1926.84,93.86,6.1,0.04
+2025-10,ICICI Bank,3017.17,90.8,9.13,0.07
 2025-10,IDFC Bank Ltd.,15.05,99.77,0.23,0.0
 2025-10,India Post Payments Bank Limited,17.97,100.0,0.0,0.0
 2025-10,Kotak Mahindra Bank,85.71,100.0,0.0,0.0
-2025-10,NPCI BHIM Services Ltd (NBSL),142.85,95.2,4.7,0.11
+2025-10,NPCI BHIM Services Ltd (NBSL),142.85,95.2,4.7,0.11
 2025-10,One Mobikwik Systems Limited,20.35,100.0,0.0,0.0
 2025-10,RBL Bank Ltd.,14.02,97.69,2.27,0.05
-2025-10,SBI,"1,184.10",93.35,6.52,0.13
+2025-10,SBI,1184.1,93.35,6.52,0.13
 2025-10,Slice Small Finance Bank,26.63,96.87,3.1,0.03
 2025-10,Tri O Tech Solutions Private Limited,145.04,100.0,0.0,0.0
 2025-10,Unity Small Finance Bank Limited,18.97,96.43,3.55,0.02
-2025-10,Yes Bank,"6,323.07",90.09,9.83,0.08
+2025-10,Yes Bank,6323.07,90.09,9.83,0.08
 2025-11,Airtel Payments Bank Limited,16.32,96.58,3.36,0.06
-2025-11,Axis Bank,"8,258.10",93.2,6.7,0.09
-2025-11,HDFC Bank,"1,936.00",93.63,6.32,0.06
-2025-11,ICICI Bank,"3,160.58",90.77,9.15,0.08
+2025-11,Axis Bank,8258.1,93.2,6.7,0.09
+2025-11,HDFC Bank,1936.0,93.63,6.32,0.06
+2025-11,ICICI Bank,3160.58,90.77,9.15,0.08
 2025-11,IDFC Bank Ltd.,16.73,99.81,0.19,0.0
 2025-11,India Post Payments Bank Limited,19.17,100.0,0.0,0.0
 2025-11,Kotak Mahindra Bank,86.97,100.0,0.0,0.0
-2025-11,NPCI BHIM Services Ltd (NBSL),154.70,95.15,4.71,0.13
+2025-11,NPCI BHIM Services Ltd (NBSL),154.7,95.15,4.71,0.13
 2025-11,One Mobikwik Systems Limited,21.13,100.0,0.0,0.0
 2025-11,RBL Bank Ltd.,13.61,97.73,2.22,0.05
-2025-11,SBI,"1,372.17",93.01,6.84,0.15
+2025-11,SBI,1372.17,93.01,6.84,0.15
 2025-11,Slice Small Finance Bank,31.34,97.09,2.88,0.04
 2025-11,Tri O Tech Solutions Private Limited,148.71,100.0,0.0,0.0
 2025-11,Unity Small Finance Bank Limited,17.31,96.22,3.75,0.03
-2025-11,Yes Bank,"6,921.22",89.94,9.96,0.1
+2025-11,Yes Bank,6921.22,89.94,9.96,0.1
 2025-12,Airtel Payments Bank Limited,16.66,96.52,3.41,0.07
-2025-12,Axis Bank,"9,124.05",92.92,6.92,0.16
-2025-12,HDFC Bank,"2,020.77",93.09,6.82,0.09
-2025-12,ICICI Bank,"3,276.12",89.83,10.02,0.15
+2025-12,Axis Bank,9124.05,92.92,6.92,0.16
+2025-12,HDFC Bank,2020.77,93.09,6.82,0.09
+2025-12,ICICI Bank,3276.12,89.83,10.02,0.15
 2025-12,IDFC Bank Ltd.,15.95,99.87,0.13,0.0
 2025-12,India Post Payments Bank Limited,17.91,100.0,0.0,0.0
 2025-12,Kotak Mahindra Bank,95.23,100.0,0.0,0.0
-2025-12,NPCI BHIM Services Ltd (NBSL),174.06,94.93,4.89,0.18
+2025-12,NPCI BHIM Services Ltd (NBSL),174.06,94.93,4.89,0.18
 2025-12,One Mobikwik Systems Limited,23.72,100.0,0.0,0.0
 2025-12,RBL Bank Ltd.,16.14,98.04,1.88,0.08
-2025-12,SBI,"1,592.54",92.66,7.12,0.22
+2025-12,SBI,1592.54,92.66,7.12,0.22
 2025-12,Slice Small Finance Bank,37.08,97.2,2.75,0.05
 2025-12,Tri O Tech Solutions Private Limited,157.89,100.0,0.0,0.0
 2025-12,Unity Small Finance Bank Limited,21.91,96.53,3.44,0.03
-2025-12,Yes Bank,"7,012.06",88.56,11.28,0.15
+2025-12,Yes Bank,7012.06,88.56,11.28,0.15
 2026-01,Airtel Payments Bank Limited,17.86,96.21,3.74,0.05
-2026-01,Axis Bank,"8,767.71",92.61,7.33,0.07
-2026-01,HDFC Bank,"1,917.41",92.69,7.27,0.04
-2026-01,ICICI Bank,"3,333.69",89.39,10.55,0.06
+2026-01,Axis Bank,8767.71,92.61,7.33,0.07
+2026-01,HDFC Bank,1917.41,92.69,7.27,0.04
+2026-01,ICICI Bank,3333.69,89.39,10.55,0.06
 2026-01,IDFC Bank Ltd.,19.23,99.88,0.12,0.0
 2026-01,INDIA POST PAYMENTS BANK LIMITED,18.75,100.0,0.0,0.0
 2026-01,Kotak Mahindra Bank,102.05,100.0,0.0,0.0
-2026-01,NPCI BHIM Services Ltd (NBSL),193.21,94.76,5.15,0.09
+2026-01,NPCI BHIM Services Ltd (NBSL),193.21,94.76,5.15,0.09
 2026-01,NSDL Payments Bank Limited,16.36,91.76,8.06,0.19
 2026-01,ONE MOBIKWIK SYSTEMS LIMITED,24.64,100.0,0.0,0.0
-2026-01,SBI,"1,840.13",93.19,6.7,0.11
+2026-01,SBI,1840.13,93.19,6.7,0.11
 2026-01,Slice Small Finance Bank Limited,42.58,97.56,2.42,0.02
 2026-01,Tri O Tech Solutions Private Limited,159.92,100.0,0.0,0.0
 2026-01,Unity Small Finance Bank Limited,24.18,95.89,4.09,0.02
-2026-01,Yes Bank,"7,294.86",88.04,11.89,0.08
+2026-01,Yes Bank,7294.86,88.04,11.89,0.08
 2026-02,Airtel Payments Bank Limited,17.06,95.95,4.01,0.04
-2026-02,Axis Bank,"7,369.63",92.37,7.56,0.07
-2026-02,HDFC Bank,"1,679.62",92.46,7.5,0.04
-2026-02,ICICI Bank,"3,092.71",89.11,10.84,0.06
+2026-02,Axis Bank,7369.63,92.37,7.56,0.07
+2026-02,HDFC Bank,1679.62,92.46,7.5,0.04
+2026-02,ICICI Bank,3092.71,89.11,10.84,0.06
 2026-02,IDFC Bank Ltd.,38.89,99.95,0.05,0.0
 2026-02,Kotak Mahindra Bank,102.73,100.0,0.0,0.0
-2026-02,NPCI BHIM Services Ltd (NBSL),197.17,95.09,4.84,0.07
+2026-02,NPCI BHIM Services Ltd (NBSL),197.17,95.09,4.84,0.07
 2026-02,NSDL Payments Bank Limited,23.09,91.39,8.51,0.1
 2026-02,ONE MOBIKWIK SYSTEMS LIMITED,24.75,100.0,0.0,0.0
 2026-02,RBL Bank Ltd.,16.79,98.32,1.66,0.03
-2026-02,SBI,"1,696.25",92.91,6.98,0.11
+2026-02,SBI,1696.25,92.91,6.98,0.11
 2026-02,Slice Small Finance Bank Limited,45.96,97.79,2.2,0.02
 2026-02,Tri O Tech Solutions Private Limited,147.62,100.0,0.0,0.0
 2026-02,Unity Small Finance Bank Limited,22.76,95.57,4.41,0.02
-2026-02,Yes Bank,"7,891.27",88.7,11.22,0.08
+2026-02,Yes Bank,7891.27,88.7,11.22,0.08
 2026-03,Airtel Payments Bank Limited,19.71,95.36,4.59,0.05
-2026-03,Axis Bank,"9,090.56",92.46,7.47,0.07
-2026-03,HDFC Bank,"2,029.63",92.43,7.53,0.04
-2026-03,ICICI Bank,"3,412.04",88.52,11.42,0.07
+2026-03,Axis Bank,9090.56,92.46,7.47,0.07
+2026-03,HDFC Bank,2029.63,92.43,7.53,0.04
+2026-03,ICICI Bank,3412.04,88.52,11.42,0.07
 2026-03,IDFC Bank Ltd.,46.21,99.96,0.04,0.0
 2026-03,India Post Payments Bank Limited,19.51,100.0,0.0,0.0
 2026-03,Kotak Mahindra Bank,114.93,100.0,0.0,0.0
-2026-03,NPCI BHIM Services Ltd (NBSL),218.99,94.92,4.99,0.09
+2026-03,NPCI BHIM Services Ltd (NBSL),218.99,94.92,4.99,0.09
 2026-03,NSDL Payments Bank Limited,33.03,91.1,8.79,0.11
-2026-03,One Mobikwik Systems Limited,28.90,100.0,0.0,0.0
-2026-03,SBI,"2,002.94",92.69,7.17,0.14
+2026-03,One Mobikwik Systems Limited,28.9,100.0,0.0,0.0
+2026-03,SBI,2002.94,92.69,7.17,0.14
 2026-03,Slice Small Finance Bank Ltd,51.35,97.95,2.03,0.02
 2026-03,Tri O Tech Solutions Private Limited,166.67,100.0,0.0,0.0
 2026-03,Unity Small Finance Bank Limited,25.32,94.87,5.1,0.02
-2026-03,Yes Bank,"7,697.81",86.87,13.04,0.09
+2026-03,Yes Bank,7697.81,86.87,13.04,0.09
 2026-04,Airtel Payments Bank Limited,20.677254,95.31,4.64,0.05
 2026-04,Axis Bank,8862.396631,92.25,7.65,0.1
 2026-04,HDFC Bank,1949.187581,92.23,7.71,0.06
@@ -800,7 +800,7 @@ month,psp,vol_mn,approved,bd,td
 2026-06,ICICI Bank,2861.253503,86.01,13.93,0.07
 2026-06,IDFC Bank Ltd.,46.736992,99.97,0.03,0.0
 2026-06,Kotak Mahindra Bank,122.322618,100.0,0.0,0.0
-2026-06,NPCI BHIM Services Ltd (NBSL),242.762786,94.93,4.86,0.2
+2026-06,NPCI BHIM Services Ltd (NBSL),242.762786,94.93,4.86,0.2
 2026-06,NSDL Payments Bank Limited,33.271528,85.5,14.34,0.15
 2026-06,North East Small Finance Bank Ltd,65.837659,98.26,1.72,0.02
 2026-06,One Mobikwik Systems Limited,27.630795,100.0,0.0,0.0
@@ -815,7 +815,7 @@ month,psp,vol_mn,approved,bd,td
 2026-07,IDFC Bank Ltd.,55.43,99.97,0.03,0.0
 2026-07,India Post Payments Bank Limited,18.94,100.0,0.0,0.0
 2026-07,Kotak Mahindra Bank,129.26,100.0,0.0,0.0
-2026-07,NPCI BHIM Services Ltd (NBSL),264.05,94.92,4.91,0.17
+2026-07,NPCI BHIM Services Ltd (NBSL),264.05,94.92,4.91,0.17
 2026-07,NSDL Payments Bank Limited,34.22,85.02,14.8,0.18
 2026-07,One Mobikwik Systems Limited,28.82,100.0,0.0,0.0
 2026-07,PhonePe Pvt. Ltd,20.73,100.0,0.0,0.0
@@ -830,7 +830,7 @@ month,psp,vol_mn,approved,bd,td
 2026-08,IDFC Bank Ltd.,53.661576,99.97,0.03,0.0
 2026-08,India Post Payments Bank Limited,18.787481,100.0,0.0,0.0
 2026-08,Kotak Mahindra Bank,138.027592,100.0,0.0,0.0
-2026-08,NPCI BHIM Services Ltd (NBSL),274.470342,95.04,4.86,0.1
+2026-08,NPCI BHIM Services Ltd (NBSL),274.470342,95.04,4.86,0.1
 2026-08,NSDL Payments Bank Limited,36.810798,77.85,22.04,0.11
 2026-08,One Mobikwik Systems Limited,30.040013,100.0,0.0,0.0
 2026-08,PhonePe Pvt. Ltd,22.809989,100.0,0.0,0.0
@@ -845,8 +845,8 @@ month,psp,vol_mn,approved,bd,td
 2026-09,IDFC Bank Ltd.,58.01,99.97,0.03,0.0
 2026-09,India Post Payments Bank Limited,18.55,100.0,0.0,0.0
 2026-09,Kotak Mahindra Bank,141.73,100.0,0.0,0.0
-2026-09,NPCI BHIM Services Ltd (NBSL),272.7,94.94,4.87,0.19
-2026-09,NSDL Payments Bank Limited,38,83.59,16.3,0.12
+2026-09,NPCI BHIM Services Ltd (NBSL),272.7,94.94,4.87,0.19
+2026-09,NSDL Payments Bank Limited,38.0,83.59,16.3,0.12
 2026-09,One Mobikwik Systems Limited,31.85,100.0,0.0,0.0
 2026-09,PhonePe Pvt. Ltd,22.87,100.0,0.0,0.0
 2026-09,SBI,2035.75,90.79,8.94,0.27
@@ -860,7 +860,7 @@ month,psp,vol_mn,approved,bd,td
 2026-10,IDFC Bank Ltd.,70.797756,99.98,0.02,0.0
 2026-10,India Post Payments Bank Limited,20.241197,100.0,0.0,0.0
 2026-10,Kotak Mahindra Bank,156.4345,100.0,0.0,0.0
-2026-10,NPCI BHIM Services Ltd (NBSL),291.224125,95.03,4.76,0.2
+2026-10,NPCI BHIM Services Ltd (NBSL),291.224125,95.03,4.76,0.2
 2026-10,NSDL Payments Bank Limited,45.0626,86.42,13.46,0.11
 2026-10,One Mobikwik Systems Limited,35.651828,100.0,0.0,0.0
 2026-10,PhonePe Pvt. Ltd,26.125792,100.0,0.0,0.0

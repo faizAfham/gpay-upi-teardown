@@ -1,6 +1,6 @@
 // Opens the Play Store "See all reviews" dialog, scrolls it, prints reviews (name|date|stars|text) as JSON lines.
 // Usage: node play_reviews.js <appId> <scrolls>
-const { firefox } = require('/Users/msahmad/.npm/_npx/705bc6b22212b352/node_modules/playwright-core');
+const { firefox } = require('playwright-core');
 const [id, scrolls = 30] = process.argv.slice(2);
 (async () => {
   const b = await firefox.launch({ headless: true });
