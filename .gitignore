@@ -1,0 +1,9 @@
+# working notes and copyrighted store screenshots stay local
+screens/
+research*.md
+analysis-gate1.md
+deck-plan.md
+deck-text-edits.md
+user-voices.md
+deck/sample-slide2.jpg
+.DS_Store
